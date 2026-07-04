@@ -1,5 +1,8 @@
 # Document Data Extraction Pipeline (Computer Vision + OCR)
 
+🔗 [Case study completo](https://vasone.com.br/document-extraction.html) no
+portfólio de Leonardo Vasone (vasone.com.br) — AI/ML & Data Engineer.
+
 Protótipo funcional que transforma recibos/notas fiscais em imagem ou PDF em
 dados estruturados (JSON/CSV), sem intervenção manual.
 
